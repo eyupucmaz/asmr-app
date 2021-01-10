@@ -17,7 +17,7 @@ const Navbar = () => {
 						</Link>
 						<Link href="">
 							<a
-								href="https://www.github.com"
+								href="https://github.com/eyupucmaz/asmr-app"
 								target="_blank"
 								className={styles.menu__link}
 							>
