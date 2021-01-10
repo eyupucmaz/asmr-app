@@ -7,7 +7,7 @@ const Navbar = () => {
 			<div className={styles.nav}>
 				<div className={styles.nav__logo}>
 					<Link href="/">
-						<a>ASMR</a>
+						<a>MY NOISE</a>
 					</Link>
 				</div>
 				<div className={styles.nav__menu}>
