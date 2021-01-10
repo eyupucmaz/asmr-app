@@ -20,6 +20,7 @@ const Navbar = () => {
 								href="https://github.com/eyupucmaz/asmr-app"
 								target="_blank"
 								className={styles.menu__link}
+								rel="noreferrer"
 							>
 								Github
 							</a>
