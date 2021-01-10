@@ -6,7 +6,7 @@ const Asmr = () => {
 		<div className={styles.container}>
 			<div className={styles.icon}>
 				<WiRain></WiRain>
-				ASMR COMPONETS
+				ASMR COMPONETSs
 			</div>
 		</div>
 	);
